@@ -719,6 +719,7 @@ main .may-like .container .boxs .box:hover .image img.inlook{
     margin-top: 15px;
     line-height: 1.5;
     padding:  0 15px 15px 0;
+    height: 65px;
 }
 .latest-news .container .boxs .box a:last-of-type{
     font-size: 20px;
